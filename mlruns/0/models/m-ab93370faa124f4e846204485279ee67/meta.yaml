@@ -1,0 +1,10 @@
+artifact_location: file:///C:/arshiv/ML/Eye%20Disease/mlruns/0/models/m-ab93370faa124f4e846204485279ee67/artifacts
+creation_timestamp: 1760907579420
+experiment_id: '0'
+last_updated_timestamp: 1760907584936
+model_id: m-ab93370faa124f4e846204485279ee67
+model_type: null
+name: scripted_model
+source_run_id: 01dfc944250b4385b42862f90869a5a7
+status: 2
+status_message: null

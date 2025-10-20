@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/arshiv/ML/Eye%20Disease/mlruns/0/c6c2a3873a894b07a2e0afdbe7f62e88/artifacts
+end_time: 1760935214290
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6c2a3873a894b07a2e0afdbe7f62e88
+run_name: burly-kit-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760931878861
+status: 3
+tags: []
+user_id: arora

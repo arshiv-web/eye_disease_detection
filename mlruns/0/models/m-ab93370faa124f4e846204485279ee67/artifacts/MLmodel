@@ -1,0 +1,23 @@
+artifact_path: file:///C:/arshiv/ML/Eye%20Disease/mlruns/0/models/m-ab93370faa124f4e846204485279ee67/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.11.13
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.9.0+cpu
+mlflow_version: 3.5.0
+model_id: m-ab93370faa124f4e846204485279ee67
+model_size_bytes: 44838265
+model_uuid: m-ab93370faa124f4e846204485279ee67
+prompts: null
+run_id: 01dfc944250b4385b42862f90869a5a7
+utc_time_created: '2025-10-19 20:59:39.545438'
