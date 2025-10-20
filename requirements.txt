@@ -1,0 +1,8 @@
+torch 
+torchvision
+gradio
+mlflow
+scikit-learn
+Pillow
+numpy
+pamdas
